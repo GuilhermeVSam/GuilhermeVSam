@@ -1,4 +1,4 @@
-[![MasterHead]([https://i.pinimg.com/736x/b5/0a/12/b50a129d48a9c343a0aa43e69158cbb2.jpg](https://www.gamerfocus.co/wp-content/uploads/2021/08/Berserk.jpg))]("github.com/GuilhermeVSam")
+[![MasterHead](https://www.gamerfocus.co/wp-content/uploads/2021/08/Berserk.jpg)]("github.com/GuilhermeVSam")
 
 
 <h1 align="center">Hi 👋, I'm Guilherme</h1>
