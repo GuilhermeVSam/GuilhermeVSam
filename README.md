@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermevsam&show_icons=true&locale=en&theme=synthwave" alt="guilhermevsam" /></p>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yr5zymtxongxp6josnvyxdchz)
+<p><img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=yr5zymtxongxp6josnvyxdchz" alt="guilhermevsam" /></p>
