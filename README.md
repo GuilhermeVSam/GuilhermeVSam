@@ -1,3 +1,5 @@
+[![MasterHead](https://64.media.tumblr.com/4e50d034e078701eba48e334477103fc/tumblr_inline_pnutgi1g8n1uke6n8_640.jpg)]("github.com/GuilhermeVSam")
+
 <h1 align="center">Hi 👋, I'm Guilherme</h1>
 <h3 align="center">A undergraduate student from Brazil</h3>
 
@@ -21,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guilhermevsam&show_icons=true&locale=en&theme=synthwave" alt="guilhermevsam" /></p>
 
-<p>&nbsp;<img align="right" src="https://spotify-recently-played-readme.vercel.app/api?user=yr5zymtxongxp6josnvyxdchz" alt="guilhermevsam" /></p>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=yr5zymtxongxp6josnvyxdchz)
