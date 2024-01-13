@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Guilherme</h1>
 <h3 align="center">A undergraduate student from Brazil</h3>
 
-- 🌱 I’m currently learning **Java, Python and SQL**
+- 🌱 I’m currently learning **Java, Rust and SQL**
 
 - 📚 I'm looking forward to learn **JavaScript, HTML/CSS**
 
