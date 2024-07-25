@@ -4,9 +4,9 @@
 <h1 align="center">Hi 👋, I'm Guilherme</h1>
 <h3 align="center">A undergraduate student from Brazil</h3>
 
-- 🌱 I’m currently learning **Java, Rust and SQL**
+- 🌱 I’m currently learning **Java Spring Boot and TypeScript**
 
-- 📚 I'm looking forward to learn **JavaScript, HTML/CSS**
+- 📚 I'm looking forward to learn **GO and C++**
 
 - 📫 How to reach me **guiwojtysiak053@hotmail.com**
 
