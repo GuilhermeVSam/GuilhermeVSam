@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Guilherme</h1>
 <h3 align="center">A undergraduate student from Brazil</h3>
 
-- 🌱 I’m currently learning **Java Spring Boot and TypeScript**
+- 🌱 I’m currently learning **Spring Boot and AWS Services**
 
 - 📚 I'm looking forward to learn **GO and C++**
 
