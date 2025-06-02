@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Spring Boot and AWS Services**
 
-- 📚 I'm looking forward to learn **GO and C++**
+- 📚 I'm looking forward to learn **GO and Some Front-End Framework**
 
 - 📫 How to reach me **guiwojtysiak053@hotmail.com**
 
